@@ -11,9 +11,10 @@
 ### [ 사용 기술 ]
 - Java
 - Spring Framework
-- React
-- JavaScript
-- MySQL
+- MyBatis
+- HTML5 / CSS3
+- JavaScript / jQuery
+- Oracle
 - Git / GitHub
 
 ### [ 담당 기능 ]
